@@ -17,10 +17,3 @@ d=num
 print("Ahadot: " + str(d-c*10))
 
 print("Ahadot: " + str(num%10))
-
-'''
-Alafim=4
-Meot=5
-Asarot=6
-Ahadot=7
-'''
