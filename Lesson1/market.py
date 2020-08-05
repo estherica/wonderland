@@ -1,3 +1,5 @@
+print("Welcome and enjoy your online-shopping!")
+
 num=int(input("Please weigh your cucumbers: "))
 print("Cucumbers: " + str((num*2)+(num*2*0.17)) + " NIS")
 
