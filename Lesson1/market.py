@@ -16,3 +16,4 @@ print("\nTotal: " + str(((num*2)*1.17) + ((num2*3)*1.17) + ((num3*5)*1.17) + ((n
 a=((num*2)*1.17) + ((num2*3)*1.17) + ((num3*5)*1.17) + ((num4*20)*1.17)
 i=round(float(a))
 print("To payment: "+str(i))
+print("Without tax: " +str((num*2) + (num2*3) + (num3*5) + (num4*20)))
