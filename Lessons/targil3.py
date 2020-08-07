@@ -23,4 +23,4 @@ print(s1[-1])
 print(s1[2:-4])
 print(s1[3:-3])
 print(s1[: :2])
-print(s1[::-1])
+print(s1[::-1])targ
