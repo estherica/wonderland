@@ -11,4 +11,4 @@ print("New IPs: " + str(new_list2))
 new_list2.pop(2)
 print("Delete one IP: " + str(new_list2))
 
-print("\nThe length is: " + str(len(new_list2)))
+print("\nThe length is: " + str(len(new_list2)) + "\nThe IP list is: " + str(new_list2))
