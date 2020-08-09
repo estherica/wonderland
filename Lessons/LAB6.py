@@ -1,5 +1,5 @@
-print("Welcome to the Main Menu!\n")
-a=int(input("Please choose a number... \n"))
+print("Welcome to the Main Menu!\n-------------------------\n" + "1. Insert Number and ** it by 3" + "\n2. Insert 4 IPs to a list and print it" + "\n3. Insert 4 Entries to DNS Dictionary and print it" + "\n4. Check if a string is a Polindrom")
+a=int(input("Please make your choice... \n"))
 if(a==1):
     num = int(input("Please insert a number... "))
     print("Your result is: " + str(num ** 3))
