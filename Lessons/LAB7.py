@@ -12,6 +12,7 @@ total=0
 
 for i in range(turns):
     print("Round # " + str(i+1) + "\n--------")
+    sleep(2)
     num1=(randint(1,6))
     num2=(randint(1,6))
     print("1st number: " + str(num1) + "\n2nd number: " + str(num2) + "\n")
