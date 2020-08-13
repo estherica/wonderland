@@ -26,4 +26,4 @@ for i in range(turns):
         total=total+20
 
 sleep(2)
-print("Congratulations! You won  " + str(total) + "NIS" + "\nThank you for joining us tonight! \nWe are looking forward seeing you again!")
+print("Congratulations! You won " + str(total) + " NIS" + "\nThank you for joining us tonight! \nWe are looking forward seeing you again!")
