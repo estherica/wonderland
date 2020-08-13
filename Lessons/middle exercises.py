@@ -10,7 +10,7 @@ print("\nCurrent date and time:\n",dt_string)
 ##exercise 3
 a=input("\nPlease, enter your first name... ")
 b=input("Please, enter your family name... ")
-print("Your name is: " + b + " " + a)
+print("Your name is: " + str(b[::-1]) + "   " + str(a[::-1]))
 
 ##exercise 4
 filename=input("\nPlease, enter the filename... ")
