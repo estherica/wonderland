@@ -1,0 +1,19 @@
+def calculating():
+    num1=int(input("Enter a number: "))
+    num2=int(input("Enter a number: "))
+    print("Your new number is: " + str(num1*num2))
+
+
+calculating()
+
+########
+
+def calculating2(x,y):
+    print("\nYour first number: " + str(x) + "\nYour second number: " + str(y))
+    print("\nYour new number is: " + str(x**y))
+
+
+calculating2(3,6)
+
+########
+
