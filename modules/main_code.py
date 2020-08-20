@@ -7,3 +7,4 @@ sleep(3)
 print("wow!\n\n")
 calculating(3,6)
 dogs_age(int(input("Enter dog's age")))
+

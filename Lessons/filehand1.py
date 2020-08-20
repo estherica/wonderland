@@ -1,4 +1,4 @@
-filename = "/Users/belleshamharoth/Documents/esther.txt"
+filename = "/Users/belleshamharoth/Documents/estherica.txt"
 file = open(filename, "r+")
 print(file.read())
 file.write("192.168.1.1\n192.168.1.2\n")
